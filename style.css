@@ -37,9 +37,11 @@ body {
     margin-top: 50px;       
 }
 button{
-    display: block;
     margin: 20px auto 50px auto; 
     padding: 15px 30px;
     font-size: 18px;
     cursor: pointer;
+}
+#TombolHide{
+    display: none;
 }
